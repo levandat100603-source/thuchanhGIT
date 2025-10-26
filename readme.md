@@ -1,2 +1,1 @@
-"Dòng được sửa máy local"
-
+"Dòng này được sửa trên local và Github"
